@@ -1,0 +1,85 @@
+DelVar theta
+While theta!=~1
+	ClrHome
+	Output(3,3,"QUOTE MACHINE")
+	Output(4,3,"5 QUOTES SO FAR")
+	Output(6,3,"ENTER ~1 TO EXIT")
+	Input "INSERT QUOTE NUM: ",theta
+	If theta=1
+	Then
+		ClrHome
+		Output(3,2,"OI MATE, WHERE")
+		Output(4,2,"IS MY STINKY BASS?")
+		Output(5,2,"I WAS PROMISED A")
+		Output(6,2,"STENCH THAT WAS"
+		Output(7,3,"UNBELIEVABLE!")
+		Output(9,3,"-WADE/DANKPODS")
+		Pause 
+	End
+	If theta=2
+	Then
+		ClrHome
+		Output(1,2,"I SEE YOU HAVE")
+		Output(2,2,"FOUND THE SACRed")
+		Output(3,2,"PEACH TREE OF")
+		Output(4,2,"HEAVENLY WISDOM!")
+		Output(5,5,"-MASTER OOGWAY")
+		Output(7,3,"thetathetathetathetathetathetathetatheta")
+		TextColor(RED)
+		Output(8,3,":OUGHH?:  -PO")
+		Output(9,3,"thetathetathetathetathetathetathetatheta")
+		Pause 
+		TextColor(BLACK)
+	End
+	If theta=3
+	Then
+		ClrHome
+		Output(3,2,"PANDA, WE DO NOT")
+		Output(4,2,"WASH OUR PITS")
+		Output(5,2,"IN THE POOL OF")
+		Output(6,2,"SACRed TEARS."
+		Output(8,2,"-MASTER SHIFU")
+		Pause 
+	End
+	If theta=4
+	Then
+		ClrHome
+		Output(2,2,"I WILL KIDNAP A")
+		Output(3,2,"THOUSAND CHILDREN")
+		Output(4,2,"BEFORE I LET THIS")
+		Output(5,2,"COMPANY DIE, AND I'LL")
+		Output(6,2,"SILENCE ANYONE WHO")
+		Output(7,2,"GETS IN MY WAY!")
+		Output(9,3,"-JAMES WATERNOOSE")
+		Pause 
+	End
+	If theta=5
+	Then
+		ClrHome
+		Output(3,2,"C'MON NOW, HURRY UP")
+		Output(5,2,"MATE, WE'RE GOING!")
+		Output(7,2,"WE'RE GOING, MATE!")
+		Pause 
+		ClrHome
+		Output(3,2,"C'MON MATE!")
+		Output(5,2,"SCREW IT!")
+		Output(7,2,"OH GEEZ! *BONK*")
+		"PART II
+		Pause 
+		ClrHome
+		TextColor(GREEN)
+		Output(2,2,"ALRIGHT, MATE, JUST")
+		Output(3,2,"GET IN THE NUGGET")
+		Output(4,2,"MATE, WE'RE GOING TO")
+		Output(5,2,"CASHIES, MATE!")
+		Output(6,2,"WE'RE DOING IT MATE!")
+		Pause 
+		ClrHome 
+		Output(3,2,"LOOK, I PATCHED")
+		Output(4,2,"THE RUST MYSELF!")
+		Output(6,2,"GLAMOROUS!")
+		Output(7,3,"-WADE/DANKPODS")
+		Pause 
+		TextColor(BLACK)
+	End
+End
