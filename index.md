@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## TI-84 Plus BASIC Programs for Algebra II ##
+_By Maximus Johnson, AI7MD_
 
-You can use the [editor on GitHub](https://github.com/MaxSolar0713/TI-BASIC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**_GO HOME, J.P. You're drunk._**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Click the button that takes you to the repository up above. Here's the description:
 
-### Markdown
+-Amazing Quote Machine: Inserts random quotes whenever needed.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-ARITHI: Calculate place in arithmetic sequence through regression (i.e. you have a^23, and a^8, but want to find a^34.
 
-```markdown
-Syntax highlighted code block
+-ARITHS: Standard Arithmetic Sequence calculator. Replace 2nd Number with X to utilize ratio instead.
 
-# Header 1
-## Header 2
-### Header 3
+-DEGRAD: Converts Degrees to Radians and Radians to Degrees. π will not be provided.
 
-- Bulleted
-- List
+-GEOMTCR: Geometric Ratio Generator: will determine ratio on a base of two different sequence results.
 
-1. Numbered
-2. List
+-GEOMTCS: Determine place in a geometric sequence, like ARITHS
 
-**Bold** and _Italic_ and `Code` text
+-INVESTA: Calculate investments based on data given.
 
-[Link](url) and ![Image](src)
-```
+-INVESTE: INVESTA, but the investment in continuous (number e)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+-INVESTM: Calculates investments with monthly payments.
 
-### Jekyll Themes
+-LNPMT: Calculates regular loan payments, total payments, and interest.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MaxSolar0713/TI-BASIC/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-LOAD: If you insert the equation "(A-B)/C" and "(D-E)/F" into Y1 and Y2 you can calculate any equation with two variables, i.e. 2x+4y=10, 3x-2y=10.
 
-### Support or Contact
+-RADAR: Generates degrees of a radian circle for those of us too lazy to do it ourselves.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-RTOCHG: Calculates the rate of change of a linear function for those of us too lazy to do it ourselves.
+
+I do not assume responsibility for your grade. Use responsibly, and it is recommended you clear this with your instructor before use.
